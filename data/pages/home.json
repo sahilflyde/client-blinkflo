@@ -1,0 +1,15 @@
+{
+  "name": "home",
+  "route": "home",
+  "components": [
+    {
+      "type": "section-header",
+      "props": {
+        "label": "Label",
+        "title": "Blinkflo New 3",
+        "subtitle": "Dynamic Subtitle"
+      },
+      "children": []
+    }
+  ]
+}
